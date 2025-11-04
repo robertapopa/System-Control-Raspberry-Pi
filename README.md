@@ -1,1 +1,1 @@
-# System-Control-Raspebrry-Pi
+# System-Control-Raspeberry-Pi
